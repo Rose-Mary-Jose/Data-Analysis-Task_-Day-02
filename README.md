@@ -1,5 +1,5 @@
 # Data-Analysis-Task_-Day-02
-visualizations in Power BI 
+**visualizations in Power BI **/n
 The Global-Superstore.csv dataset contains detailed transactional data from a fictional multinational retail company. It captures customer orders, sales performance, and shipping information across various countries and product categories.
 
 Columns in the dataset includes
